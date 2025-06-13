@@ -7,3 +7,4 @@ valkey/valkey:8
 elasticsearch:8.11.3
 hub.icert.top/opensearchproject/opensearch:2.19.1
 ghcr.io/open-webui/open-webui:cuda
+ghcr.io/sgl-project/sglang:latest
