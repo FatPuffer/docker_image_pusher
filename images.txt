@@ -9,3 +9,4 @@ hub.icert.top/opensearchproject/opensearch:2.19.1
 ghcr.io/open-webui/open-webui:cuda
 lmsysorg/sglang:latest
 infiniflow/ragflow:v0.19.1
+guanyueyun/ooffice:8.2.0.1
