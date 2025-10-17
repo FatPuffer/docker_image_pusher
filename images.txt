@@ -11,3 +11,4 @@ lmsysorg/sglang:latest
 infiniflow/ragflow:v0.19.1
 guanyueyun/ooffice:8.2.0.1
 apache/tika
+breezedeus/cnocr:latest
